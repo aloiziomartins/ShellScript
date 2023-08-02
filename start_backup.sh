@@ -11,9 +11,9 @@
 # 	concluída dia 31/07/2023
 #
 # Próxmas etapas:
-# TODO 1> Sincronizar backup com diretório
-# TODO 2> Metodo de restauração de backup
-# TODO 3> Política de backup - Subjetiva a necessidade, risco, espaço disponível
+# TODO 1> Sincronizar backup com diretório.
+# TODO 2> Restauração de backup.
+# TODO 3> Política de backup - Subjetiva a necessidade, risco, espaço disponível.
 #
 # 
 #
