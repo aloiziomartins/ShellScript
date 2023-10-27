@@ -45,7 +45,7 @@ mkdir -p "$diretorio_comandos" # Cria diretório se não existir
 
 # Adicionar um novo comando personalizado
 if [ "$1" == "adicionar" ]; then
-    if [ -z "$2,,," ] || [ -z "$3" ]; then
+    if [ -z "$2" ] || [ -z "$3" ]; then
         touch $diretorio_comandos/"$2.sh" && nano $diretorio_comandos/"$2.sh"
         file_comando=$diretorio_comandos/"$2.sh"
         if test -f $file_comando; then
