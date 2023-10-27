@@ -29,10 +29,9 @@ INFO="
     #   Excluir:
     #   Para excluir comando: ctic remover <Nome_do_Comando>                
     #
-    #IFSC - Instituto Fedral de Santa Catarina
-    #CTIC - Coordenadoreia de Tecnologia e Informação e Comunicação
     #
     #Aloizio Martins 19/09/2023
+    #martins.aloizio@gmail.com
     "
 if [ "$1" == "-h" ]; then
     echo "$INFO"
